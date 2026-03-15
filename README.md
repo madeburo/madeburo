@@ -2,6 +2,7 @@
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/madeburo)
 ![Views](https://hits.sh/github.com/madeburo.svg?style=for-the-badge&label=Profile%20Views&color=0088cc)
 
+Founder of Made Büro. Building products across Open Source, SaaS, AI and Fintech.
 
 ---
 
@@ -25,9 +26,10 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ### Databases
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
 
 ### Cloud
 
