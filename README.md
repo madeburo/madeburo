@@ -8,11 +8,11 @@ Building products across Open Source and AI
 
 ### Projects
 
-[![Made Büro](https://img.shields.io/badge/Made%20Büro-0A0A0A?style=for-the-badge&logoColor=white)](https://www.madeburo.com)
-[![Aria Code](https://img.shields.io/badge/Aria%20Code-6366F1?style=for-the-badge&logoColor=white)](https://www.ariacode.run)
-[![OneBit](https://img.shields.io/badge/OneBit-F59E0B?style=for-the-badge&logoColor=white)](https://www.onebit.run)
-[![GEO AI](https://img.shields.io/badge/GEO%20AI-10B981?style=for-the-badge&logoColor=white)](https://www.geoai.run)
-[![GoRemote](https://img.shields.io/badge/GoRemote-00ADD8?style=for-the-badge&logoColor=white)](https://www.goremote.run)
+- **[Made Büro](https://www.madeburo.com)** — UI Studio
+- **[Aria Code](https://www.ariacode.run)** — AI Agents for Coding
+- **[OneBit](https://www.onebit.run)** — Open Source Privacy-First AI Analytics
+- **[GEO AI](https://www.geoai.run)** — AI Search Optimization
+- **[GoRemote](https://www.goremote.run)** — Remote jobs for tech, powered by an AI agent and CLI
 
 ---
 
@@ -38,5 +38,4 @@ Building products across Open Source and AI
 ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge
