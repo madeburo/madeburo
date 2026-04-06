@@ -9,10 +9,10 @@ Building products across Open Source and AI
 
 ### Projects
 
-- **[Aria Code](https://www.ariacode.run)** — AI Agents for Coding Node and Python
-- **[OneBit](https://www.onebit.run)** — Privacy-First AI Analytics
+- **[Aria Code](https://www.ariacode.run)** — AI coding agent for Node.js and Python
+- **[OneBit](https://www.onebit.run)** — Privacy-first AI analytics
 - **[GEO AI](https://www.geoai.run)** — AI Search Optimization
-- **[GoRemote](https://www.goremote.run)** — Remote jobs for tech, powered by an AI agents and CLI
+- **[GoRemote](https://www.goremote.run)** — Remote tech jobs, powered by AI agents and a CLI
 
 
 ---
