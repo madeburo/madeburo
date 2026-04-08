@@ -11,10 +11,10 @@ Building products across Open Source and AI
 
 ### Projects
 
-<img src="https://www.google.com/s2/favicons?domain=ariacode.run&sz=32" width="21"/> **[Aria Code](https://www.ariacode.run)** — AI coding agent for Node/Nest and Python  
+<img src="https://www.google.com/s2/favicons?domain=www.ariacode.run&sz=32" width="21"/> **[Aria Code](https://www.ariacode.run)** — AI coding agent for Node/Nest and Python  
 <img src="https://www.google.com/s2/favicons?domain=onebit.run&sz=32" width="21"/> **[OneBit](https://www.onebit.run)** — Privacy-first AI analytics  
 <img src="https://www.google.com/s2/favicons?domain=geoai.run&sz=32" width="21"/> **[GEO AI](https://www.geoai.run)** — AI Search Optimization  
-<img src="https://www.google.com/s2/favicons?domain=goremote.run&sz=32" width="21"/> **[GoRemote](https://www.goremote.run)** — Remote tech jobs, powered by AI agents and a CLI
+<img src="https://www.google.com/s2/favicons?domain=www.goremote.run&sz=32" width="21"/> **[GoRemote](https://www.goremote.run)** — Remote tech jobs, powered by AI agents and a CLI
 
 
 ---
