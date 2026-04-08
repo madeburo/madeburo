@@ -9,10 +9,17 @@ Building products across Open Source and AI
 
 ### Projects
 
-- **[Aria Code](https://www.ariacode.run)** — AI coding agent for Node/Nest and Python
-- **[OneBit](https://www.onebit.run)** — Privacy-first AI analytics
-- **[GEO AI](https://www.geoai.run)** — AI Search Optimization
-- **[GoRemote](https://www.goremote.run)** — Remote tech jobs, powered by AI agents and a CLI
+[![Aria Code](https://img.shields.io/badge/Aria_Code-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.ariacode.run)
+AI coding agent for Node/Nest and Python
+
+[![OneBit](https://img.shields.io/badge/OneBit-6366F1?style=for-the-badge&logo=databricks&logoColor=white)](https://www.onebit.run)
+Privacy-first AI analytics
+
+[![GEO AI](https://img.shields.io/badge/GEO_AI-10B981?style=for-the-badge&logo=googleearth&logoColor=white)](https://www.geoai.run)
+AI Search Optimization
+
+[![GoRemote](https://img.shields.io/badge/GoRemote-0EA5E9?style=for-the-badge&logo=gnometerminal&logoColor=white)](https://www.goremote.run)
+Remote tech jobs, powered by AI agents and a CLI
 
 
 ---
