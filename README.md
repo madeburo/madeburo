@@ -12,8 +12,6 @@ Building products across Open Source and AI
 <img src="https://www.titanbase.run/favicon.ico" width="21"/> **[Titanbase](https://www.titanbase.run)** — Visual Schema Designer for Relational Databases<br/>
 <img src="https://www.google.com/s2/favicons?domain=onebit.run&sz=32" width="21"/> **[OneBit](https://www.onebit.run)** — Privacy-first AI analytics<br/>
 <img src="https://www.google.com/s2/favicons?domain=geoai.run&sz=32" width="21"/> **[GEO AI](https://www.geoai.run)** — Generative Engine Optimization<br/>
-<img src="https://www.google.com/s2/favicons?domain=www.goremote.run&sz=32" width="21"/> **[GoRemote](https://www.goremote.run)** — Remote tech jobs, powered by AI agents and a CLI<br/>
-<img src="https://www.google.com/s2/favicons?domain=contextai.run&sz=32" width="21"/> **[ContextAI](https://www.contextai.run)** — Universal context engineering CLI
 
 ---
 
