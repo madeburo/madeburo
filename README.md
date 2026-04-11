@@ -4,12 +4,16 @@
 
 Engineering Lead building Open Source and AI-powered platforms
 
+---
+
 ### Projects
 
 <img src="https://www.google.com/s2/favicons?domain=onebit.run&sz=32" width="21"/> **[OneBit](https://www.onebit.run)** — Privacy-first AI analytics<br/>
 <img src="https://www.titanbase.run/favicon.ico" width="21"/> **[Titanbase](https://www.titanbase.run)** — Visual Schema Designer for Relational Databases<br/>
 <img src="https://www.ariacode.run/favicon.ico" width="21"/> **[Aria Code](https://www.ariacode.run)** — AI coding agent for Node/Nest and Python<br/>
 <img src="https://www.google.com/s2/favicons?domain=geoai.run&sz=32" width="21"/> **[GEO AI](https://www.geoai.run)** — Generative Engine Optimization<br/>
+
+---
 
 ### Backend
 ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
