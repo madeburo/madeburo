@@ -13,7 +13,6 @@ Engineering Lead building Open Source and AI-powered platforms
 <img src="https://www.titanbase.run/favicon.ico" width="21"/> **[Titanbase](https://www.titanbase.run)** — Visual Schema Designer for Relational Databases<br/>
 <img src="https://www.ariacode.run/favicon.ico" width="21"/> **[Aria Code](https://www.ariacode.run)** — AI coding agent for Node/Nest and Python<br/>
 <img src="https://www.google.com/s2/favicons?domain=geoai.run&sz=32" width="21"/> **[GEO AI](https://www.geoai.run)** — Generative Engine Optimization<br/>
-<img src="https://www.llmcost.run/favicon.ico" width="21"/> **[LLM Cost](https://www.llmcost.run)** — Compare LLM API prices across OpenAI, Anthropic, Gemini and more<br/>
 
 
 ---
