@@ -8,6 +8,7 @@ Engineering Lead building Open Source and AI-powered platforms
 
 ### Projects
 
+<img src="https://www.openmodels.run/favicon.ico" width="21"/> **[Open Models](https://www.openmodels.run)** — Open infrastructure for discovering and comparing LLM models<br/>
 <img src="https://www.google.com/s2/favicons?domain=onebit.run&sz=32" width="21"/> **[OneBit](https://www.onebit.run)** — Privacy-first AI analytics<br/>
 <img src="https://www.titanbase.run/favicon.ico" width="21"/> **[Titanbase](https://www.titanbase.run)** — Visual Schema Designer for Relational Databases<br/>
 <img src="https://www.ariacode.run/favicon.ico" width="21"/> **[Aria Code](https://www.ariacode.run)** — AI coding agent for Node/Nest and Python<br/>
