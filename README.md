@@ -6,6 +6,15 @@ Engineering Lead building Open Source and AI-powered platforms
 
 ---
 
+### Projects
+
+<img src="https://www.openmodels.run/favicon.ico" width="21"/> **[OpenModels](https://www.openmodels.run)** — Discover & Compare LLM models and providers<br/>
+<img src="https://www.onebit.run/favicon.ico" width="21"/> **[OneBit](https://www.onebit.run)** — Privacy-first AI analytics<br/>
+<img src="https://www.titanbase.run/favicon.ico" width="21"/> **[Titanbase](https://www.titanbase.run)** — Visual Schema Designer for Relational Databases<br/>
+
+
+---
+
 ### Backend
 ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
