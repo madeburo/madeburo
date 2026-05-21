@@ -1,5 +1,3 @@
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/madeburo)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/madeburo)
 ![Views](https://hits.sh/github.com/madeburo.svg?style=for-the-badge&label=Profile%20Views&color=0088cc)
 
 Engineering Lead building Open Source and AI-powered platforms
@@ -9,7 +7,7 @@ Engineering Lead building Open Source and AI-powered platforms
 ### Projects
 
 <img src="https://www.openmodels.run/favicon.ico" width="21"/> **[OpenModels](https://www.openmodels.run)** — Discover & Compare LLM models and providers<br/>
-<img src="https://www.heynoki.com/favicon.ico" width="21"/> **[Noki](https://www.heynoki.com)** — Learn English with Noki. Your AI learning buddy. 🐾<br/>
+<img src="https://www.heynoki.com/favicon.ico" width="21"/> **[Noki](https://www.heynoki.com)** — Learn English with Noki. Your AI learning buddy.<br/>
 <img src="https://www.onebit.run/favicon.ico" width="21"/> **[OneBit](https://www.onebit.run)** — Privacy-first AI analytics<br/>
 <img src="https://www.titanbase.run/favicon.ico" width="21"/> **[Titanbase](https://www.titanbase.run)** — Visual Schema Designer for Relational Databases<br/>
 <img src="https://www.githubster.com/favicon.ico" width="21"/> **[Githubster](https://www.githubster.com)** — Explore your GitHub social graph<br/>
