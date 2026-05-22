@@ -1,7 +1,5 @@
 ![Views](https://hits.sh/github.com/madeburo.svg?style=for-the-badge&label=Profile%20Views&color=0088cc)
 
-Engineering Lead building Open Source and AI-powered platforms
-
 ---
 
 ### Projects
