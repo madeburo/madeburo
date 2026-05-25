@@ -4,7 +4,7 @@
 
 ### Projects
 
-<img src="https://www.openmodels.run/favicon.ico" width="21"/> **[OpenModels](https://www.openmodels.run)** — Discover & Compare LLM models and providers<br/>
+<img src="https://www.openmodels.run/favicon.ico" width="21"/> **[OpenModels](https://www.openmodels.run)** — Data layer for the AI ecosystem – models, providers, telemetry and analytics<br/>
 <img src="https://www.titanbase.run/favicon.ico" width="21"/> **[Titanbase](https://www.titanbase.run)** — Visual Schema Designer for Relational Databases<br/>
 <img src="https://www.ariacode.run/favicon.ico" width="21"/> **[Aria Code](https://www.ariacode.run)** — AI coding agent for NestJS (Node) and FastAPI (Python)<br/>
 <img src="https://www.githubster.com/favicon.ico" width="21"/> **[Githubster](https://www.githubster.com)** — Explore your GitHub social graph<br/>
