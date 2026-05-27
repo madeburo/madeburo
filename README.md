@@ -4,7 +4,7 @@
 
 ### Projects
 
-<img src="https://www.openmodels.run/favicon.ico" width="21"/> **[OpenModels](https://www.openmodels.run)** — Data layer for the AI ecosystem – models, providers, telemetry and analytics<br/>
+<img src="https://www.openmodels.run/favicon.ico" width="21"/> **[OpenModels](https://www.openmodels.run)** — Open Registry & Telemetry for AI Infrastructure. Discover, validate and compare LLM models, inference providers, MCP servers, and agent skills using open data and real-time telemetry. Track latency, uptime, pricing, capabilities, and provider mappings in one place.<br/>
 <img src="https://www.titanbase.run/favicon.ico" width="21"/> **[Titanbase](https://www.titanbase.run)** — Visual schema designer for developers and product teams. Design your database schema visually. Export to PostgreSQL, Prisma, Drizzle, Supabase and Neon.<br/>
 <img src="https://www.ariacode.run/favicon.ico" width="21"/> **[Aria Code](https://www.ariacode.run)** — AI coding agent for NestJS (Node) and FastAPI (Python)<br/>
 <img src="https://www.githubster.com/favicon.ico" width="21"/> **[Githubster](https://www.githubster.com)** — Explore your GitHub social graph<br/>
