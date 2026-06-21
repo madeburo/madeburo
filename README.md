@@ -4,9 +4,9 @@
 
 ### Projects
 
-<img src="https://www.openmodels.run/favicon.ico" width="21"/> **[OpenModels](https://www.openmodels.run)** — Open Registry & Telemetry for AI Infrastructure<br/>
 <img src="https://www.titanbase.run/favicon.ico" width="21"/> **[Titanbase](https://www.titanbase.run)** — Visual schema designer for Developers and Product Teams<br/>
 <img src="https://www.brewwery.com/favicon.ico" width="21"/> **[Brewwery](https://www.brewwery.com)** — MacOS GUI for Homebrew<br/>
+<img src="https://www.openmodels.run/favicon.ico" width="21"/> **[OpenModels](https://www.openmodels.run)** — Open Registry & Telemetry for AI Infrastructure<br/>
 <img src="https://www.withnohype.com/favicon.ico" width="21"/> **[With No Hype](https://www.withnohype.com)** — AI and new tech explained honestly<br/>
 <img src="https://www.ariacode.run/favicon.ico" width="21"/> **[Aria Code](https://www.ariacode.run)** — AI coding agent<br/>
 <img src="https://www.githubster.com/favicon.ico" width="21"/> **[Githubster](https://www.githubster.com)** — Explore GitHub social graph<br/>
