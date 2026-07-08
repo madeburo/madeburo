@@ -1,4 +1,4 @@
-![Views](https://hits.sh/github.com/madeburo.svg?style=for-the-badge&label=Profile%20Views&color=0088cc)
+[![Hits](https://hits.sh/github.com/madeburo.svg?label=visits&extraCount=4000&color=007ec6&labelColor=e9e9e9)](https://hits.sh/github.com/madeburo/)
 
 ---
 
