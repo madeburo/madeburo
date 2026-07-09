@@ -1,6 +1,6 @@
 [![Visits](https://hits.sh/github.com/madeburo.svg?label=visits&extraCount=4000&color=007ec6&labelColor=e9e9e9)](https://hits.sh/github.com/madeburo/)
 
-AI Systems Engineer and Software Engineer building OSS, AI products and small independent software projects.
+AI Systems Engineer and Software Engineer building OSS, AI products, and small independent software projects.
 
 ---
 
@@ -8,12 +8,12 @@ AI Systems Engineer and Software Engineer building OSS, AI products and small in
 
 ### Developer Tools & Infrastructure
 
-| Project | Description | 
-|---|---|---|
+| Project | Description |
+|---|---|
 | <img src="https://www.titanbase.run/favicon.ico" width="18"/> [**Titanbase**](https://www.titanbase.run) | Visual schema designer for developers and product teams |
 | <img src="https://www.brewwery.com/favicon.ico" width="18"/> [**Brewwery**](https://www.brewwery.com) | macOS GUI for Homebrew |
-| <img src="https://www.openmodels.run/favicon.ico" width="18"/> [**OpenModels**](https://www.openmodels.run) | Open registry and telemetry for AI infrastructure 
-| <img src="https://www.ariacode.run/favicon.ico" width="18"/> [**Aria Code**](https://www.ariacode.run) | AI coding agent 
+| <img src="https://www.openmodels.run/favicon.ico" width="18"/> [**OpenModels**](https://www.openmodels.run) | Open registry and telemetry for AI infrastructure |
+| <img src="https://www.ariacode.run/favicon.ico" width="18"/> [**Aria Code**](https://www.ariacode.run) | AI coding agent |
 
 ---
 
