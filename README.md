@@ -1,12 +1,10 @@
 [![Visits](https://hits.sh/github.com/madeburo.svg?label=visits&extraCount=4000&color=007ec6&labelColor=e9e9e9)](https://hits.sh/github.com/madeburo/)
 
-AI Systems Engineer and Software Engineer building OSS, AI products, and small independent software projects.
+AI Systems Engineer and Software Engineer building OSS, AI products and independent software projects.
 
 ---
 
 ## Projects
-
-### Developer Tools & Infrastructure
 
 | Project | Description |
 |---|---|
