@@ -9,7 +9,7 @@ AI Systems Engineer and Software Engineer building OSS, AI products and independ
 | Project | Description |
 |---|---|
 | <img src="https://www.openmodels.run/favicon.ico" width="18"/> [**OpenModels**](https://www.openmodels.run) | Open Registry for AI Infrastructure |
-| <img src="https://www.titanbase.run/favicon.ico" width="18"/> [**Titanbase**](https://www.titanbase.run) | Visual schema designer for developers and product teams |
+| <img src="https://www.titanbase.run/favicon.ico" width="18"/> [**Titanbase**](https://www.titanbase.run) | Visual schema designer for relational databases |
 | <img src="https://www.brewwery.com/favicon.ico" width="18"/> [**Brewwery**](https://www.brewwery.com) | macOS GUI for Homebrew |
 | <img src="https://www.ariacode.run/favicon.ico" width="18"/> [**Aria Code**](https://www.ariacode.run) | AI coding agent |
 
