@@ -8,10 +8,10 @@ AI Systems Engineer and Software Engineer building OSS, AI products and independ
 
 | Project | Description |
 |---|---|
-| <img src="https://www.openmodels.run/favicon.ico" width="18"/>&nbsp;[**OpenModels**](https://www.openmodels.run) | Open Registry for AI Infrastructure |
-| <img src="https://recern.net/favicon.ico" width="18"/>&nbsp;[**Recern**](https://recern.net) | Database workspace for analyzing activity and performance across Postgres, MongoDB, ClickHouse, Redis and more |
-| <img src="https://www.titanbase.run/favicon.ico" width="18"/>&nbsp;[**Titanbase**](https://www.titanbase.run) | Visual schema designer for databases |
-| <img src="https://www.brewwery.com/favicon.ico" width="18"/>&nbsp;[**Brewwery**](https://www.brewwery.com) | macOS GUI for Homebrew |
+| <a href="https://www.openmodels.run"><img src="https://www.openmodels.run/favicon.ico" width="18" height="18">&nbsp;<strong>OpenModels</strong></a> | Open Registry for AI Infrastructure |
+| <a href="https://recern.net"><img src="https://recern.net/favicon.ico" width="18" height="18">&nbsp;<strong>Recern</strong></a> | Database workspace for analyzing activity and performance across Postgres, MongoDB, ClickHouse, Redis and more |
+| <a href="https://www.titanbase.run"><img src="https://www.titanbase.run/favicon.ico" width="18" height="18">&nbsp;<strong>Titanbase</strong></a> | Visual schema designer for databases |
+| <a href="https://www.brewwery.com"><img src="https://www.brewwery.com/favicon.ico" width="18" height="18">&nbsp;<strong>Brewwery</strong></a> | macOS GUI for Homebrew |
 
 ---
 
