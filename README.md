@@ -4,57 +4,17 @@ AI Systems Engineer and Software Engineer building OSS, AI products and independ
 
 ---
 
-<h2>Projects</h2>
 
-<table>
-  <thead>
-    <tr>
-      <th width="220">Project</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td width="220">
-        <a href="https://www.openmodels.run">
-          <img src="https://www.openmodels.run/favicon.ico" width="18" height="18">
-          <strong>OpenModels</strong>
-        </a>
-      </td>
-      <td>Open Registry for AI Infrastructure</td>
-    </tr>
+## Projects
 
-    <tr>
-      <td width="220">
-        <a href="https://recern.net">
-          <img src="https://recern.net/favicon.ico" width="18" height="18">
-          <strong>Recern</strong>
-        </a>
-      </td>
-      <td>Database workspace for analyzing activity and performance across Postgres, MongoDB, ClickHouse, Redis and more</td>
-    </tr>
+| Project | Description |
+|---|---|
+| <img src="https://www.openmodels.run/favicon.ico" width="18"/> [**OpenModels**](https://www.openmodels.run) | Open Registry for AI Infrastructure |
+| <img src="https://recern.net/favicon.ico" width="18"/> [**Recern**](https://recern.net) | Database workspace for analyzing activity and performance across Postgres, MongoDB, ClickHouse, Redis and more |
+| <img src="https://www.titanbase.run/favicon.ico" width="18"/> [**Titanbase**](https://www.titanbase.run) | Visual schema designer for databases |
+| <img src="https://www.brewwery.com/favicon.ico" width="18"/> [**Brewwery**](https://www.brewwery.com) | macOS GUI for Homebrew |
 
-    <tr>
-      <td width="220">
-        <a href="https://www.titanbase.run">
-          <img src="https://www.titanbase.run/favicon.ico" width="18" height="18">
-          <strong>Titanbase</strong>
-        </a>
-      </td>
-      <td>Visual schema designer for databases</td>
-    </tr>
-
-    <tr>
-      <td width="220">
-        <a href="https://www.brewwery.com">
-          <img src="https://www.brewwery.com/favicon.ico" width="18" height="18">
-          <strong>Brewwery</strong>
-        </a>
-      </td>
-      <td>macOS GUI for Homebrew</td>
-    </tr>
-  </tbody>
-</table>
+---
 
 ## Tech Stack
 
