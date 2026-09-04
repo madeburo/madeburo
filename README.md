@@ -4,16 +4,57 @@ AI Systems Engineer and Software Engineer building OSS, AI products and independ
 
 ---
 
-## Projects
+<h2>Projects</h2>
 
-| Project | Description |
-|---|---|
-| <a href="https://www.openmodels.run"><img src="https://www.openmodels.run/favicon.ico" width="18" height="18">&nbsp;<strong>OpenModels</strong></a> | Open Registry for AI Infrastructure |
-| <a href="https://recern.net"><img src="https://recern.net/favicon.ico" width="18" height="18">&nbsp;<strong>Recern</strong></a> | Database workspace for analyzing activity and performance across Postgres, MongoDB, ClickHouse, Redis and more |
-| <a href="https://www.titanbase.run"><img src="https://www.titanbase.run/favicon.ico" width="18" height="18">&nbsp;<strong>Titanbase</strong></a> | Visual schema designer for databases |
-| <a href="https://www.brewwery.com"><img src="https://www.brewwery.com/favicon.ico" width="18" height="18">&nbsp;<strong>Brewwery</strong></a> | macOS GUI for Homebrew |
+<table>
+  <thead>
+    <tr>
+      <th width="220">Project</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="220">
+        <a href="https://www.openmodels.run">
+          <img src="https://www.openmodels.run/favicon.ico" width="18" height="18">
+          <strong>OpenModels</strong>
+        </a>
+      </td>
+      <td>Open Registry for AI Infrastructure</td>
+    </tr>
 
----
+    <tr>
+      <td width="220">
+        <a href="https://recern.net">
+          <img src="https://recern.net/favicon.ico" width="18" height="18">
+          <strong>Recern</strong>
+        </a>
+      </td>
+      <td>Database workspace for analyzing activity and performance across Postgres, MongoDB, ClickHouse, Redis and more</td>
+    </tr>
+
+    <tr>
+      <td width="220">
+        <a href="https://www.titanbase.run">
+          <img src="https://www.titanbase.run/favicon.ico" width="18" height="18">
+          <strong>Titanbase</strong>
+        </a>
+      </td>
+      <td>Visual schema designer for databases</td>
+    </tr>
+
+    <tr>
+      <td width="220">
+        <a href="https://www.brewwery.com">
+          <img src="https://www.brewwery.com/favicon.ico" width="18" height="18">
+          <strong>Brewwery</strong>
+        </a>
+      </td>
+      <td>macOS GUI for Homebrew</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Tech Stack
 
