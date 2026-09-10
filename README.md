@@ -14,6 +14,7 @@ CTO, AI Systems Engineer building OSS, AI products and independent software proj
 | <img src="https://usekea.com/favicon.ico" width="18"/> [**Kea**](https://usekea.com) | App for X on Mac |
 | <img src="https://www.brewwery.com/favicon.ico" width="18"/> [**Brewwery**](https://www.brewwery.com) | macOS GUI for Homebrew |
 | <img src="https://www.titanbase.run/favicon.ico" width="18"/> [**Titanbase**](https://www.titanbase.run) | Visual schema designer for databases |
+| <img src="https://www.githubster.com/favicon.ico" width="18"/> [**Githubster**](https://www.githubster.com) | Explore your GitHub network |
 
 ---
 
