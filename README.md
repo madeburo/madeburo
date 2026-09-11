@@ -11,11 +11,10 @@ CTO, AI Systems Engineer building OSS, AI products and independent software proj
 |---|---|
 | <img src="https://recern.net/favicon.ico" width="18"/> [**Recern**](https://recern.net) | Database workspace for Postgres, MongoDB, ClickHouse, Redis and more |
 | <img src="https://usagenow.com/favicon.ico" width="18"/> [**UsageNow**](https://usagenow.com) | macOS app for Codex and Claude Code usage, limits, and resets |
-| <img src="https://usekea.com/favicon.ico" width="18"/> [**Kea**](https://usekea.com) | App for X on Mac |
 | <img src="https://www.brewwery.com/favicon.ico" width="18"/> [**Brewwery**](https://www.brewwery.com) | macOS GUI for Homebrew |
+| <img src="https://usekea.com/favicon.ico" width="18"/> [**Kea**](https://usekea.com) | App for X on Mac |
 | <img src="https://www.titanbase.run/favicon.ico" width="18"/> [**Titanbase**](https://www.titanbase.run) | Visual schema designer for databases |
 | <img src="https://www.openmodels.run/favicon.ico" width="18"/> [**OpenModels**](https://www.openmodels.run) | Open Registry for AI Infrastructure |
-| <img src="https://www.githubster.com/favicon.ico" width="18"/> [**Githubster**](https://www.githubster.com) | Explore your GitHub network |
 
 ---
 
