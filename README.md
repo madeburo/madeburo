@@ -1,4 +1,4 @@
-[![Visits](https://hits.sh/github.com/madeburo.svg?label=visits&extraCount=4000&color=007ec6&labelColor=e9e9e9)](https://hits.sh/github.com/madeburo/)
+[![Visits](https://hits.sh/github.com/madeburo.svg?label=visits&color=007ec6&labelColor=e9e9e9)](https://hits.sh/github.com/madeburo/)
 
 CTO, AI Systems Engineer building OSS, AI products and independent software projects.
 
@@ -14,7 +14,7 @@ CTO, AI Systems Engineer building OSS, AI products and independent software proj
 | <img src="https://usagenow.com/favicon.ico" width="18"/> [**UsageNow**](https://usagenow.com) | macOS app for Codex, Claude Code and Gemini usage, limits, and resets |
 | <img src="https://www.brewwery.com/favicon.ico" width="18"/> [**Brewwery**](https://www.brewwery.com) | macOS GUI for Homebrew |
 | <img src="https://www.titanbase.run/favicon.ico" width="18"/> [**Titanbase**](https://www.titanbase.run) | Visual schema designer for databases |
-| <img src="https://usekea.com/favicon.ico" width="18"/> [**Kea**](https://usekea.com) | App for X on Mac |
+| <img src="https://usekea.com/favicon.ico" width="18"/> [**Kea**](https://usekea.com) | Native macOS client for X |
 
 ---
 
@@ -38,3 +38,15 @@ CTO, AI Systems Engineer building OSS, AI products and independent software proj
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+### AI
+
+![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
+![Llama](https://img.shields.io/badge/Llama-0467DF?style=flat-square&logo=metaai&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-6950EF?style=flat-square&logo=qwen&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-5786FE?style=flat-square&logo=deepseek&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
