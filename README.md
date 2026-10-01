@@ -44,9 +44,10 @@ CTO, AI Systems Engineer building OSS, AI products and independent software proj
 
 ![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
-![Llama](https://img.shields.io/badge/Llama-0467DF?style=flat-square&logo=metaai&logoColor=white)
 ![Qwen](https://img.shields.io/badge/Qwen-6950EF?style=flat-square&logo=qwen&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-5786FE?style=flat-square&logo=deepseek&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Llama](https://img.shields.io/badge/Llama-0467DF?style=flat-square&logo=meta&logoColor=white)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-2B2B2B?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
